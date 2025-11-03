@@ -1,5 +1,6 @@
 ### pdflatex
 *.aux
+*.toc
 *.log
 *.pdf
 
