@@ -3,4 +3,4 @@
 - Corral, Mecmath, https://www.mecmath.net/
 - Spivak, Calculus
 - Hubbard & Hubbard, Vector Calculus, Linear Algebra, and Differential Forms, https://matrixeditions.com/5thUnifiedApproach.html
- 
+- Stewart, Calculus 7E
