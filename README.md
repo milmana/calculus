@@ -133,6 +133,8 @@ Prioritize proofs that justify **why** a technique is legal (hypotheses!) and a 
 
 If you want, I can tailor this to the books you already own (chapter-by-chapter checkpoints and a compact exercise list).
 
+### chat
+https://chatgpt.com/share/690cc27e-f2b4-800d-99f5-2d290125f902
 
 ### sources
 https://www.whitman.edu/mathematics/multivariable/
